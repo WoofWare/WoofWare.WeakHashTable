@@ -1,8 +1,8 @@
 # WoofWare.WeakHashTable
 
 [![NuGet version](https://img.shields.io/nuget/v/WoofWare.WeakHashTable.svg?style=flat-square)](https://www.nuget.org/packages/WoofWare.WeakHashTable)
-[![GitHub Actions status](https://github.com/Smaug123/WoofWare.WeakHashTable/actions/workflows/dotnet.yaml/badge.svg)](https://github.com/Smaug123/WoofWare.WeakHashTable/actions?query=branch%3Amain)
-[![License file](https://img.shields.io/github/license/Smaug123/WoofWare.WeakHashTable)](./LICENCE.md)
+[![GitHub Actions status](https://github.com/WoofWare/WoofWare.WeakHashTable/actions/workflows/dotnet.yaml/badge.svg)](https://github.com/WoofWare/WoofWare.WeakHashTable/actions?query=branch%3Amain)
+[![License file](https://img.shields.io/github/license/WoofWare/WoofWare.WeakHashTable)](./LICENCE.md)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logos/dark.svg">
